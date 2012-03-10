@@ -1,0 +1,1201 @@
+WARNING 2011-11-17 22:56:44,864 base 6060 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 22:56:45,831 base 6066 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-17 23:05:29,225 base 6110 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 23:05:30,270 base 6115 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-17 23:09:22,453 base 6324 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 23:09:23,492 base 6329 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+DEBUG 2011-11-17 23:12:40,817 util 6334 -1235489936 (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 666a239f4c57f98261e313d606936c05  AND `django_session`.`expire_date` > 2011-11-17 23:12:40 ); args=('666a239f4c57f98261e313d606936c05', u'2011-11-17 23:12:40')
+DEBUG 2011-11-17 23:12:40,822 util 6334 -1235489936 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-17 23:12:40,881 util 6334 -1235489936 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+WARNING 2011-11-17 23:12:42,671 base 6362 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 23:12:42,671 base 6362 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 23:12:43,670 base 6367 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-17 23:12:43,670 base 6367 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-17 23:17:23,094 views 6372 -1235489936 error etc.etc.
+WARNING 2011-11-17 23:17:23,096 views 6372 -1235489936 warning etc.etc.
+INFO 2011-11-17 23:17:23,097 views 6372 -1235489936 info etc.etc.
+DEBUG 2011-11-17 23:17:23,098 views 6372 -1235489936 debug etc.etc.
+WARNING 2011-11-17 23:17:24,920 base 6404 -1235489936 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-17 23:17:25,962 base 6409 -1235489936 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 11:52:41,615 views 2635 -1235752080 error etc.etc.
+WARNING 2011-11-18 11:52:41,637 views 2635 -1235752080 warning etc.etc.
+INFO 2011-11-18 11:52:41,638 views 2635 -1235752080 info etc.etc.
+DEBUG 2011-11-18 11:52:41,638 views 2635 -1235752080 debug etc.etc.
+WARNING 2011-11-18 11:52:43,250 base 2641 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 11:52:44,268 base 2646 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 11:54:46,499 views 2651 -1235752080 error etc.etc.
+WARNING 2011-11-18 11:54:46,500 views 2651 -1235752080 warning etc.etc.
+INFO 2011-11-18 11:54:46,500 views 2651 -1235752080 info etc.etc.
+DEBUG 2011-11-18 11:54:46,500 views 2651 -1235752080 debug etc.etc.
+WARNING 2011-11-18 11:54:47,480 base 2663 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 11:54:48,337 base 2670 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:02:14,239 views 2675 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:02:14,240 views 2675 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:02:14,240 views 2675 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:02:14,240 views 2675 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:02:15,774 base 2867 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:02:16,791 base 2872 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:02:48,136 views 2877 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:02:48,137 views 2877 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:02:48,138 views 2877 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:02:48,139 views 2877 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:02:49,803 base 2886 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-18 12:02:50,822 base 2891 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+ERROR 2011-11-18 12:03:00,392 views 2896 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:03:00,392 views 2896 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:03:00,392 views 2896 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:03:00,393 views 2896 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:03:01,854 base 2904 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:03:02,889 base 2909 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:03:14,350 views 2914 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:03:14,350 views 2914 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:03:14,350 views 2914 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:03:14,351 views 2914 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:03:16,090 base 2921 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:03:17,859 base 2927 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:06:11,019 views 2932 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:06:11,019 views 2932 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:06:11,020 views 2932 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:06:11,020 views 2932 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:06:12,123 base 3022 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-18 12:06:13,018 base 3027 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+ERROR 2011-11-18 12:37:45,133 views 3032 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:37:45,134 views 3032 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:37:45,134 views 3032 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:37:45,134 views 3032 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:37:46,965 base 3525 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:37:47,963 base 3530 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:38:43,560 views 3535 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:38:43,561 views 3535 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:38:43,561 views 3535 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:38:43,561 views 3535 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:38:45,027 base 3557 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:38:46,003 base 3562 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:39:36,490 views 3567 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:39:36,490 views 3567 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:39:36,491 views 3567 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:39:36,491 views 3567 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:39:38,169 base 3578 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:39:39,181 base 3583 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:42:51,153 views 3589 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:42:51,153 views 3589 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:42:51,153 views 3589 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:42:51,154 views 3589 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:42:52,368 base 3646 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:42:53,297 base 3651 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:44:49,856 views 3657 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:44:49,857 views 3657 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:44:49,857 views 3657 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:44:49,857 views 3657 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:44:51,372 base 3689 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:44:52,405 base 3695 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:46:44,398 views 3700 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:46:44,398 views 3700 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:46:44,398 views 3700 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:46:44,399 views 3700 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:46:45,578 base 3768 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:46:46,490 base 3773 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:47:15,002 views 3778 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:47:15,003 views 3778 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:47:15,004 views 3778 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:47:15,005 views 3778 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:47:16,529 base 3792 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:47:17,595 base 3797 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:48:34,079 views 3802 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:48:34,080 views 3802 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:48:34,080 views 3802 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:48:34,080 views 3802 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:48:35,608 base 3837 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:48:36,656 base 3842 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:53:47,876 views 3847 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:53:47,876 views 3847 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:53:47,876 views 3847 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:53:47,877 views 3847 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:53:49,009 base 3899 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:53:49,954 base 3904 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 12:59:57,290 views 3909 -1235752080 error etc.etc.
+WARNING 2011-11-18 12:59:57,291 views 3909 -1235752080 warning etc.etc.
+INFO 2011-11-18 12:59:57,291 views 3909 -1235752080 info etc.etc.
+DEBUG 2011-11-18 12:59:57,291 views 3909 -1235752080 debug etc.etc.
+WARNING 2011-11-18 12:59:58,392 base 4032 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 12:59:59,288 base 4037 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:02:11,980 views 4042 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:02:11,982 views 4042 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:02:11,983 views 4042 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:02:11,983 views 4042 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:02:13,464 base 4113 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:02:14,455 base 4118 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:03:41,569 views 4123 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:03:41,569 views 4123 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:03:41,569 views 4123 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:03:41,570 views 4123 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:03:42,658 base 4150 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+WARNING 2011-11-18 13:03:43,517 base 4155 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+ERROR 2011-11-18 13:05:17,810 views 4160 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:05:17,810 views 4160 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:05:17,810 views 4160 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:05:17,811 views 4160 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:05:19,619 base 4189 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:05:20,689 base 4194 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:06:31,328 views 4199 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:06:31,329 views 4199 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:06:31,329 views 4199 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:06:31,330 views 4199 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:06:32,703 base 4226 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:06:33,705 base 4231 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:10:37,442 views 4236 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:10:37,443 views 4236 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:10:37,443 views 4236 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:10:37,444 views 4236 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:10:38,987 base 4319 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:10:39,982 base 4324 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:11:06,016 views 4329 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:11:06,016 views 4329 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:11:06,017 views 4329 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:11:06,017 views 4329 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:11:07,059 base 4343 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:11:07,964 base 4348 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:11:42,501 views 4353 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:11:42,502 views 4353 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:11:42,503 views 4353 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:11:42,503 views 4353 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:11:44,011 base 4360 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:11:45,072 base 4365 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:12:35,524 views 4370 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:12:35,525 views 4370 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:12:35,526 views 4370 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:12:35,526 views 4370 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:12:37,068 base 4398 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:12:38,068 base 4403 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:12:58,567 views 4408 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:12:58,567 views 4408 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:12:58,567 views 4408 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:12:58,568 views 4408 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:13:00,105 base 4423 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:13:01,130 base 4428 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:13:55,413 views 4433 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:13:55,413 views 4433 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:13:55,421 views 4433 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:13:55,422 views 4433 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:13:57,166 base 4460 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:13:58,200 base 4465 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:17:16,019 views 4470 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:17:16,019 views 4470 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:17:16,020 views 4470 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:17:16,020 views 4470 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:17:17,395 base 4569 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:17:18,371 base 4574 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:18:23,617 views 4579 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:18:23,617 views 4579 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:18:23,618 views 4579 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:18:23,618 views 4579 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:18:25,401 base 4601 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:18:26,438 base 4606 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:18:42,818 views 4611 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:18:42,819 views 4611 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:18:42,820 views 4611 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:18:42,822 views 4611 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:18:44,431 base 4630 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:18:45,521 base 4635 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:20:25,856 views 4640 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:20:25,857 views 4640 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:20:25,857 views 4640 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:20:25,858 views 4640 -1235752080 debug etc.etc.
+WARNING 2011-11-18 13:20:27,539 base 4683 -1235752080 Not Found: /ticketpay/images/calendar/cal.gif
+WARNING 2011-11-18 13:20:28,932 base 4688 -1235752080 Not Found: /ticketpay/General Ticket Form_files/cal.gif
+ERROR 2011-11-18 13:21:51,968 views 4694 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:21:51,969 views 4694 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:21:51,972 views 4694 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:21:51,972 views 4694 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:23:32,804 views 4715 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:23:32,805 views 4715 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:23:32,805 views 4715 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:23:32,805 views 4715 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:25:17,150 views 4745 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:25:17,151 views 4745 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:25:17,153 views 4745 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:25:17,154 views 4745 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:27:22,182 views 4789 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:27:22,182 views 4789 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:27:22,183 views 4789 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:27:22,183 views 4789 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:28:48,074 views 4903 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:28:48,075 views 4903 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:28:48,075 views 4903 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:28:48,075 views 4903 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:31:02,912 views 4913 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:31:02,912 views 4913 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:31:02,914 views 4913 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:31:02,915 views 4913 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:32:56,280 views 4958 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:32:56,281 views 4958 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:32:56,281 views 4958 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:32:56,281 views 4958 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:37:02,252 views 5016 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:37:02,253 views 5016 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:37:02,253 views 5016 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:37:02,254 views 5016 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:39:00,898 views 5144 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:39:00,898 views 5144 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:39:00,899 views 5144 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:39:00,899 views 5144 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:39:05,301 views 5180 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:39:05,302 views 5180 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:39:05,303 views 5180 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:39:05,304 views 5180 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:39:36,996 views 5200 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:39:36,996 views 5200 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:39:36,997 views 5200 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:39:36,997 views 5200 -1235752080 debug etc.etc.
+ERROR 2011-11-18 13:42:14,741 views 5329 -1235752080 error etc.etc.
+WARNING 2011-11-18 13:42:14,741 views 5329 -1235752080 warning etc.etc.
+INFO 2011-11-18 13:42:14,741 views 5329 -1235752080 info etc.etc.
+DEBUG 2011-11-18 13:42:14,742 views 5329 -1235752080 debug etc.etc.
+ERROR 2011-11-18 19:28:02,378 views 2640 -1235223696 error etc.etc.
+WARNING 2011-11-18 19:28:02,394 views 2640 -1235223696 warning etc.etc.
+INFO 2011-11-18 19:28:02,394 views 2640 -1235223696 info etc.etc.
+DEBUG 2011-11-18 19:28:02,395 views 2640 -1235223696 debug etc.etc.
+ERROR 2011-11-18 19:28:59,177 views 2673 -1235223696 error etc.etc.
+WARNING 2011-11-18 19:28:59,178 views 2673 -1235223696 warning etc.etc.
+INFO 2011-11-18 19:28:59,178 views 2673 -1235223696 info etc.etc.
+DEBUG 2011-11-18 19:28:59,178 views 2673 -1235223696 debug etc.etc.
+WARNING 2011-11-20 09:01:14,636 base 3926 -1235276944 Not Found: /favicon.ico
+WARNING 2011-11-20 09:01:16,652 base 3938 -1235276944 Not Found: /favicon.ico
+ERROR 2011-11-20 09:14:59,708 views 4035 -1235276944 error etc.etc.
+WARNING 2011-11-20 09:14:59,709 views 4035 -1235276944 warning etc.etc.
+INFO 2011-11-20 09:14:59,709 views 4035 -1235276944 info etc.etc.
+DEBUG 2011-11-20 09:14:59,709 views 4035 -1235276944 debug etc.etc.
+ERROR 2011-11-20 09:24:38,938 views 5001 -1235276944 error etc.etc.
+WARNING 2011-11-20 09:24:38,939 views 5001 -1235276944 warning etc.etc.
+INFO 2011-11-20 09:24:38,939 views 5001 -1235276944 info etc.etc.
+DEBUG 2011-11-20 09:24:38,939 views 5001 -1235276944 debug etc.etc.
+ERROR 2011-11-20 09:31:16,243 views 5076 -1235276944 error etc.etc.
+WARNING 2011-11-20 09:31:16,244 views 5076 -1235276944 warning etc.etc.
+INFO 2011-11-20 09:31:16,244 views 5076 -1235276944 info etc.etc.
+DEBUG 2011-11-20 09:31:16,244 views 5076 -1235276944 debug etc.etc.
+ERROR 2011-11-20 09:31:44,695 views 5128 -1235276944 error etc.etc.
+WARNING 2011-11-20 09:31:44,695 views 5128 -1235276944 warning etc.etc.
+INFO 2011-11-20 09:31:44,695 views 5128 -1235276944 info etc.etc.
+DEBUG 2011-11-20 09:31:44,695 views 5128 -1235276944 debug etc.etc.
+ERROR 2011-11-20 10:47:46,091 views 5143 -1235276944 error etc.etc.
+WARNING 2011-11-20 10:47:46,092 views 5143 -1235276944 warning etc.etc.
+INFO 2011-11-20 10:47:46,092 views 5143 -1235276944 info etc.etc.
+DEBUG 2011-11-20 10:47:46,093 views 5143 -1235276944 debug etc.etc.
+ERROR 2011-11-20 11:55:15,403 views 6193 -1235276944 error etc.etc.
+WARNING 2011-11-20 11:55:15,404 views 6193 -1235276944 warning etc.etc.
+INFO 2011-11-20 11:55:15,406 views 6193 -1235276944 info etc.etc.
+DEBUG 2011-11-20 11:55:15,407 views 6193 -1235276944 debug etc.etc.
+ERROR 2011-11-20 11:56:43,184 views 6221 -1235276944 error etc.etc.
+WARNING 2011-11-20 11:56:43,184 views 6221 -1235276944 warning etc.etc.
+INFO 2011-11-20 11:56:43,185 views 6221 -1235276944 info etc.etc.
+DEBUG 2011-11-20 11:56:43,185 views 6221 -1235276944 debug etc.etc.
+ERROR 2011-11-20 11:57:54,188 views 6240 -1235276944 error etc.etc.
+WARNING 2011-11-20 11:57:54,189 views 6240 -1235276944 warning etc.etc.
+INFO 2011-11-20 11:57:54,190 views 6240 -1235276944 info etc.etc.
+DEBUG 2011-11-20 11:57:54,191 views 6240 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:03:01,387 views 6270 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:03:01,387 views 6270 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:03:01,388 views 6270 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:03:01,388 views 6270 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:05:31,681 views 6361 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:05:31,682 views 6361 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:05:31,683 views 6361 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:05:31,683 views 6361 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:05:55,604 views 6435 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:05:55,607 views 6435 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:05:55,607 views 6435 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:05:55,607 views 6435 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:07:08,566 views 6446 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:07:08,566 views 6446 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:07:08,567 views 6446 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:07:08,567 views 6446 -1235276944 debug etc.etc.
+WARNING 2011-11-20 12:08:26,708 http 6494 -1235276944 Method Not Allowed (GET): /ticketpay/validate_parking_form
+ERROR 2011-11-20 12:10:53,213 views 6512 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:10:53,213 views 6512 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:10:53,213 views 6512 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:10:53,214 views 6512 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:11:33,015 views 6547 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:11:33,015 views 6547 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:11:33,020 views 6547 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:11:33,020 views 6547 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:11:48,161 views 6567 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:11:48,162 views 6567 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:11:48,162 views 6567 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:11:48,162 views 6567 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:26:26,987 views 6649 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:26:26,987 views 6649 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:26:26,987 views 6649 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:26:26,988 views 6649 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:26:58,172 views 6708 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:26:58,172 views 6708 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:26:58,173 views 6708 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:26:58,173 views 6708 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:27:06,504 views 6725 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:27:06,505 views 6725 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:27:06,505 views 6725 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:27:06,505 views 6725 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:27:08,365 views 6731 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:27:08,365 views 6731 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:27:08,367 views 6731 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:27:08,368 views 6731 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:27:45,720 views 6737 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:27:45,721 views 6737 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:27:45,721 views 6737 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:27:45,722 views 6737 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:30:13,181 views 6772 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:30:13,181 views 6772 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:30:13,182 views 6772 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:30:13,182 views 6772 -1235276944 debug etc.etc.
+ERROR 2011-11-20 12:33:37,851 views 6825 -1235276944 error etc.etc.
+WARNING 2011-11-20 12:33:37,852 views 6825 -1235276944 warning etc.etc.
+INFO 2011-11-20 12:33:37,852 views 6825 -1235276944 info etc.etc.
+DEBUG 2011-11-20 12:33:37,853 views 6825 -1235276944 debug etc.etc.
+ERROR 2011-11-20 13:10:58,454 views 6939 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:10:58,454 views 6939 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:10:58,455 views 6939 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:10:58,455 views 6939 -1235276944 debug etc.etc.
+ERROR 2011-11-20 13:13:37,473 views 7052 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:13:37,474 views 7052 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:13:37,474 views 7052 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:13:37,475 views 7052 -1235276944 debug etc.etc.
+ERROR 2011-11-20 13:13:54,394 views 7129 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:13:54,394 views 7129 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:13:54,395 views 7129 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:13:54,396 views 7129 -1235276944 debug etc.etc.
+WARNING 2011-11-20 13:13:59,902 http 7139 -1235276944 Method Not Allowed (GET): /ticketpay/validate_parking_form
+ERROR 2011-11-20 13:14:43,454 views 7144 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:14:43,456 views 7144 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:14:43,457 views 7144 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:14:43,459 views 7144 -1235276944 debug etc.etc.
+ERROR 2011-11-20 13:17:30,419 views 7172 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:17:30,420 views 7172 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:17:30,421 views 7172 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:17:30,422 views 7172 -1235276944 debug etc.etc.
+ERROR 2011-11-20 13:23:50,498 views 7420 -1235276944 error etc.etc.
+WARNING 2011-11-20 13:23:50,498 views 7420 -1235276944 warning etc.etc.
+INFO 2011-11-20 13:23:50,498 views 7420 -1235276944 info etc.etc.
+DEBUG 2011-11-20 13:23:50,499 views 7420 -1235276944 debug etc.etc.
+DEBUG 2011-11-20 13:26:06,079 views 7449 -1235276944 select_parking_form
+DEBUG 2011-11-20 13:28:31,748 views 7497 -1235276944 select_parking_form
+DEBUG 2011-11-20 13:28:39,254 views 7524 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:30:34,840 views 7530 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:35:47,511 views 7543 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:36:47,975 views 7579 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:41:32,359 views 7595 -1235276944 select_parking_form
+DEBUG 2011-11-20 13:42:42,629 views 7650 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:44:45,329 views 7657 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:45:45,535 views 7681 -1235276944 select_parking_form
+DEBUG 2011-11-20 13:46:32,891 views 7705 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:53:01,352 views 7748 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:54:22,141 views 7767 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:56:46,944 views 7797 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 13:59:46,324 views 7857 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:00:41,245 views 7875 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:08:11,467 views 7946 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:08:56,168 views 8020 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:10:10,006 views 8039 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:11:50,571 views 8063 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:15:10,783 views 8093 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:20:49,797 views 8123 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:21:44,364 views 8183 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:22:07,137 views 8202 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:22:25,365 views 8215 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:22:51,602 views 8231 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:23:24,429 views 8237 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:24:09,315 views 8251 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:24:59,720 views 8269 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:38:29,538 views 8292 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:43:53,935 views 8349 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:52:58,470 views 8550 -1235276944 select_parking_form
+DEBUG 2011-11-20 14:53:12,302 views 8592 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:56:04,480 views 8597 -1235276944 select_parking_form
+DEBUG 2011-11-20 14:56:36,533 views 8625 -1235276944 select_parking_form
+DEBUG 2011-11-20 14:56:50,273 views 8636 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:58:36,444 views 8642 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 14:59:51,723 views 8670 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:01:33,470 views 8694 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:01:33,471 views 8694 -1235276944 <class 'ticketpay.forms.NoticeForm'>
+DEBUG 2011-11-20 15:02:44,488 views 8753 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:02:44,491 views 8753 -1235276944 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:06:00,351 views 8782 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:06:00,354 views 8782 -1235276944 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:20:38,562 views 8848 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:20:38,565 views 8848 -1235276944 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:23:47,209 views 9059 -1235276944 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:23:47,212 views 9059 -1235276944 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:25:19,336 views 9247 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:25:19,340 views 9247 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:43:05,275 views 9357 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:43:05,278 views 9357 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:51:59,992 views 9487 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:51:59,995 views 9487 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:52:34,654 views 9633 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:52:34,657 views 9633 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:53:01,484 views 9646 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:53:01,488 views 9646 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:54:28,806 views 9651 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:54:28,810 views 9651 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:55:31,508 views 9684 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:55:31,511 views 9684 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:55:31,512 fields 9684 -1235051664 >>>>>>>>>>>>>>>>to_python 2011-11-08
+DEBUG 2011-11-20 15:55:31,513 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,516 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format Y
+DEBUG 2011-11-20 15:55:31,516 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format -
+DEBUG 2011-11-20 15:55:31,517 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,518 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format m
+DEBUG 2011-11-20 15:55:31,518 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format -
+DEBUG 2011-11-20 15:55:31,519 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,519 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format d
+DEBUG 2011-11-20 15:55:31,520 fields 9684 -1235051664 >>>>>>>>>>>>>>>>to_python 2011-11-11
+DEBUG 2011-11-20 15:55:31,521 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,521 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format Y
+DEBUG 2011-11-20 15:55:31,521 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format -
+DEBUG 2011-11-20 15:55:31,522 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,522 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format m
+DEBUG 2011-11-20 15:55:31,522 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format -
+DEBUG 2011-11-20 15:55:31,523 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format %
+DEBUG 2011-11-20 15:55:31,523 fields 9684 -1235051664 >>>>>>>>>>>>>>>>format d
+DEBUG 2011-11-20 15:56:58,905 views 9700 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 15:56:58,909 views 9700 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-11'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-08'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 15:56:58,910 fields 9700 -1235051664 >>>>>>>>>>>>>>>>to_python 2011-11-08
+DEBUG 2011-11-20 15:56:58,911 fields 9700 -1235051664 >>>>>>>>>>>>>>>>format %Y-%m-%d
+DEBUG 2011-11-20 15:56:58,917 fields 9700 -1235051664 >>>>>>>>>>>>>>>>to_python 2011-11-11
+DEBUG 2011-11-20 15:56:58,918 fields 9700 -1235051664 >>>>>>>>>>>>>>>>format %Y-%m-%d
+DEBUG 2011-11-20 16:00:02,333 util 9718 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:00:02 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:00:02')
+DEBUG 2011-11-20 16:00:02,339 util 9718 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:00:02,340 views 9718 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:00:02,421 util 9718 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:00:19,425 views 9769 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 16:00:19,429 views 9769 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-30'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-09'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 16:05:30,043 views 9775 -1235051664 >>>>>>>>>>>>>>>>VALIDATE
+DEBUG 2011-11-20 16:05:30,047 views 9775 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-30'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-09'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 16:08:16,600 views 9866 -1235051664 {'data': <QueryDict: {u'date_post': [u'2011-11-30'], u'address': [u'sdfsd'], u'municipality': [u'sdfsf'], u'postal_code': [u'sdfsaf'], u'apartment_1': [u'dsf'], u'apartment': [u'sadfs'], u'offence_date': [u'2011-11-09'], u'submit': [u''], u'csrfmiddlewaretoken': [u'93b1a8a73a7fbbe162911f57f95df13e'], u'current_address': [u'sadfsdf'], u'province': [u'sd'], u'notice': [u'sadf'], u'lang_interpreter': [u'as'], u'representive_details': [u'fsdf'], u'intended_to_appear_in_cort': [u'on'], u'intended_to_appear_yes': [u'on'], u'chalenge_no': [u'on'], u'street_1': [u'dsf'], u'icon': [u'sdf'], u'municipality_1': [u'fsdaf'], u'intended_to_appear_in_cort_fr': [u'on'], u'province_1': [u'fs'], u'lang_interpreter_fr': [u'AD'], u'offence_number': [u'dsfsf'], u'signature': [u'ASD'], u'intended_to_appear_no': [u'on'], u'postal_code_1': [u'fsd'], u'chalenge_yes': [u'on']}>}
+DEBUG 2011-11-20 16:09:45,258 views 9916 -1235051664 <function <lambda> at 0x21d37144>
+DEBUG 2011-11-20 16:10:51,939 views 9943 -1235051664 {}
+DEBUG 2011-11-20 16:20:11,693 util 10035 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:20:11 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:20:11')
+DEBUG 2011-11-20 16:20:11,699 util 10035 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:20:11,700 views 10035 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:20:11,785 util 10035 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:21:28,306 util 10077 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:21:28 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:21:28')
+DEBUG 2011-11-20 16:21:28,312 util 10077 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:21:28,313 views 10077 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:21:28,405 util 10077 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:36:39,813 util 10094 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:36:39 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:36:39')
+DEBUG 2011-11-20 16:36:39,817 util 10094 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:36:39,886 util 10094 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:36:42,556 util 10224 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:36:42 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:36:42')
+DEBUG 2011-11-20 16:36:42,562 util 10224 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:36:42,628 util 10224 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:25,812 util 10236 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:43:25 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:43:25')
+DEBUG 2011-11-20 16:43:25,819 util 10236 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:25,889 util 10236 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:46,079 util 10340 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:43:46 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:43:46')
+DEBUG 2011-11-20 16:43:46,084 util 10340 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:46,156 util 10340 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:48,441 util 10353 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:43:48 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:43:48')
+DEBUG 2011-11-20 16:43:48,447 util 10353 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:43:48,448 views 10353 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:43:48,538 util 10353 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:45:00,289 util 10365 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:45:00 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:45:00')
+DEBUG 2011-11-20 16:45:00,295 util 10365 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:45:00,361 util 10365 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:45:03,391 util 10378 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:45:03 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:45:03')
+DEBUG 2011-11-20 16:45:03,397 util 10378 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:45:03,464 util 10378 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:46:13,303 util 10386 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:46:13 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:46:13')
+DEBUG 2011-11-20 16:46:13,310 util 10386 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:46:13,312 views 10386 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:46:13,389 util 10386 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:46:17,917 util 10397 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:46:17 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:46:17')
+DEBUG 2011-11-20 16:46:17,924 util 10397 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:46:17,925 views 10397 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:46:18,009 util 10397 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:51:48,440 util 10409 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:51:48 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:51:48')
+DEBUG 2011-11-20 16:51:48,447 util 10409 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:51:48,448 views 10409 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:51:48,531 util 10409 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:53:56,378 util 10468 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:53:56 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:53:56')
+DEBUG 2011-11-20 16:53:56,386 util 10468 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:53:56,387 views 10468 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:53:56,463 util 10468 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:54:34,083 util 10487 -1235051664 (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:54:34 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:54:34')
+DEBUG 2011-11-20 16:54:34,089 util 10487 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:54:34,090 views 10487 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:54:34,162 util 10487 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+WARNING 2011-11-20 16:54:39,076 base 10498 -1235051664 Not Found: /ticketpay/parking_form
+WARNING 2011-11-20 16:54:39,076 base 10498 -1235051664 Not Found: /ticketpay/parking_form
+WARNING 2011-11-20 16:55:22,469 base 10503 -1235051664 Not Found: /ticketpay/parking_form
+WARNING 2011-11-20 16:55:22,469 base 10503 -1235051664 Not Found: /ticketpay/parking_form
+DEBUG 2011-11-20 16:55:28,805 util 10527 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:55:28 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:55:28')
+DEBUG 2011-11-20 16:55:28,811 util 10527 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:55:28,812 views 10527 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:55:28,890 util 10527 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:55:34,355 util 10535 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:55:34 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:55:34')
+DEBUG 2011-11-20 16:55:34,362 util 10535 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:55:34,363 views 10535 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:55:34,441 util 10535 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:55:55,786 util 10546 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:55:55 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:55:55')
+DEBUG 2011-11-20 16:55:55,791 util 10546 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:55:55,792 views 10546 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:55:55,866 util 10546 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:56:06,474 util 10554 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:56:06 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:56:06')
+DEBUG 2011-11-20 16:56:06,481 util 10554 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:56:06,482 views 10554 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:56:06,562 util 10554 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:57:32,952 util 10561 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:57:32 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:57:32')
+DEBUG 2011-11-20 16:57:32,958 util 10561 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:57:32,960 views 10561 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:57:33,034 util 10561 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:58:45,750 util 10586 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 16:58:45 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 16:58:45')
+DEBUG 2011-11-20 16:58:45,757 util 10586 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 16:58:45,758 views 10586 -1235051664 select_parking_form
+DEBUG 2011-11-20 16:58:45,835 util 10586 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+WARNING 2011-11-20 16:58:50,736 base 10621 -1235051664 Not Found: /ticketpay/select_parcking_form
+WARNING 2011-11-20 16:58:50,736 base 10621 -1235051664 Not Found: /ticketpay/select_parcking_form
+WARNING 2011-11-20 17:00:03,990 base 10626 -1235051664 Not Found: /ticketpay/select_parcking_form
+WARNING 2011-11-20 17:00:03,990 base 10626 -1235051664 Not Found: /ticketpay/select_parcking_form
+DEBUG 2011-11-20 17:00:11,567 util 10641 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:00:11 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:00:11')
+DEBUG 2011-11-20 17:00:11,578 util 10641 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:00:11,578 views 10641 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:00:11,650 util 10641 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:00:35,198 util 10649 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:00:35 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:00:35')
+DEBUG 2011-11-20 17:00:35,203 util 10649 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:00:35,204 views 10649 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:00:35,284 util 10649 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:01:48,970 util 10656 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:01:48 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:01:48')
+DEBUG 2011-11-20 17:01:48,976 util 10656 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:01:48,977 views 10656 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:01:49,049 util 10656 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:02:00,219 util 10677 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:02:00 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:02:00')
+DEBUG 2011-11-20 17:02:00,224 util 10677 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:02:00,225 views 10677 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:02:00,299 util 10677 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:02:26,071 util 10683 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:02:26 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:02:26')
+DEBUG 2011-11-20 17:02:26,081 util 10683 -1235051664 (0.001) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:02:26,082 views 10683 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:02:26,160 util 10683 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:03:09,133 util 10689 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:03:09 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:03:09')
+DEBUG 2011-11-20 17:03:09,138 util 10689 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:03:09,138 views 10689 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:03:09,211 util 10689 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:03:13,931 util 10700 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:03:13 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:03:13')
+DEBUG 2011-11-20 17:03:13,941 util 10700 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:03:13,943 views 10700 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:03:14,014 util 10700 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:27,985 util 10706 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:04:27 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:04:27')
+DEBUG 2011-11-20 17:04:27,990 util 10706 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:27,990 views 10706 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:04:28,061 util 10706 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:32,620 util 10720 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:04:32 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:04:32')
+DEBUG 2011-11-20 17:04:32,631 util 10720 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:32,631 views 10720 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:04:32,703 util 10720 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:38,528 util 10726 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:04:38 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:04:38')
+DEBUG 2011-11-20 17:04:38,533 util 10726 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:04:38,534 views 10726 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:04:38,606 util 10726 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:11,276 util 10732 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:06:11 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:06:11')
+DEBUG 2011-11-20 17:06:11,282 util 10732 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:11,283 views 10732 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:06:11,371 util 10732 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:17,056 util 10754 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:06:17 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:06:17')
+DEBUG 2011-11-20 17:06:17,063 util 10754 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:17,064 views 10754 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:06:17,134 util 10754 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:22,476 util 10761 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:06:22 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:06:22')
+DEBUG 2011-11-20 17:06:22,482 util 10761 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:06:22,482 views 10761 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:06:22,553 util 10761 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:16,452 util 10767 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:07:16 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:07:16')
+DEBUG 2011-11-20 17:07:16,459 util 10767 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:16,460 views 10767 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:07:16,531 util 10767 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:21,916 util 10783 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:07:21 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:07:21')
+DEBUG 2011-11-20 17:07:21,926 util 10783 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:21,927 views 10783 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:07:21,997 util 10783 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:35,303 util 10789 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:07:35 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:07:35')
+DEBUG 2011-11-20 17:07:35,309 util 10789 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:07:35,310 views 10789 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:07:35,390 util 10789 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:09:05,447 util 10796 -1235051664 (0.002) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:09:05 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:09:05')
+DEBUG 2011-11-20 17:09:05,453 util 10796 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:09:05,454 views 10796 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:09:05,523 util 10796 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:10:59,010 util 10824 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:10:58 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:10:58')
+DEBUG 2011-11-20 17:10:59,016 util 10824 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:10:59,017 views 10824 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:10:59,088 util 10824 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:11:04,458 util 10864 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:11:04 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:11:04')
+DEBUG 2011-11-20 17:11:04,464 util 10864 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:11:04,465 views 10864 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:11:04,536 util 10864 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:11:12,375 util 10873 -1235051664 (0.001) SELECT `django_session`.`session_key`, `django_session`.`session_data`, `django_session`.`expire_date` FROM `django_session` WHERE (`django_session`.`session_key` = 9ef919117a0d45aea9808a6d945a9090  AND `django_session`.`expire_date` > 2011-11-20 17:11:12 ); args=('9ef919117a0d45aea9808a6d945a9090', u'2011-11-20 17:11:12')
+DEBUG 2011-11-20 17:11:12,382 util 10873 -1235051664 (0.000) SELECT `auth_user`.`id`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`password`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`is_superuser`, `auth_user`.`last_login`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:11:12,383 views 10873 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:11:12,456 util 10873 -1235051664 (0.000) SELECT `auth_message`.`id`, `auth_message`.`user_id`, `auth_message`.`message` FROM `auth_message` WHERE `auth_message`.`user_id` = 1 ; args=(1,)
+DEBUG 2011-11-20 17:12:06,585 views 10879 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:12:14,458 views 10895 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:13:50,175 views 10902 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:13:54,521 views 10926 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:14:02,541 views 10934 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:15:00,273 views 10941 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:15:28,473 views 10953 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:17:30,169 views 10966 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:17:34,105 views 10995 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:18:02,817 views 11002 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:18:44,531 views 11008 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:18:48,828 views 11037 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:19:42,001 views 11068 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:20:08,245 views 11085 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:20:21,573 views 11097 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:21:16,803 views 11108 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:22:22,508 views 11126 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:23:37,417 views 11135 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:24:18,112 views 11161 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:26:56,077 views 11178 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:27:12,528 views 11222 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:27:36,249 views 11234 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:27:54,543 views 11256 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:31:10,367 views 11267 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:32:06,435 views 11293 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:33:00,357 views 11313 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:33:29,082 views 11332 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:37:17,160 views 11338 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:40:25,948 views 11391 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:42:17,980 views 11409 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:44:04,385 views 11435 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:44:08,587 views 11451 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:45:15,945 views 11462 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:46:48,622 views 11478 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:48:11,484 views 11509 -1235051664 select_parking_form
+DEBUG 2011-11-20 17:48:55,814 views 11527 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:06:32,514 views 11555 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:09:14,481 views 12489 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:11:01,255 views 12522 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:12:59,837 views 12572 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:14:21,517 views 12586 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:19:48,217 views 12612 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:19:58,115 views 12726 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:22:32,932 views 12732 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:23:26,544 views 12776 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:24:32,204 views 12801 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:24:43,768 views 12834 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:26:51,935 views 12846 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:27:21,771 views 12869 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:27:51,881 views 12885 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:28:57,916 views 12901 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:31:58,385 views 12931 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:32:59,916 views 12970 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:34:28,704 views 13006 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:35:30,670 views 13035 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:39:54,595 views 13090 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:40:58,940 views 13107 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:43:58,331 views 13142 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:44:10,484 views 13176 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:46:40,787 views 13232 -1235051664 select_parking_form
+DEBUG 2011-11-20 21:47:13,385 views 13265 -1235051664 select_parking_form
+DEBUG 2011-11-21 20:07:45,625 views 2379 -1235518608 select_parking_form
+DEBUG 2011-11-21 20:50:21,131 views 2390 -1235518608 select_parking_form
+DEBUG 2011-11-21 21:17:33,715 views 3968 -1235518608 select_parking_form
+DEBUG 2011-11-21 21:49:32,452 views 4156 -1235518608 select_parking_form
+DEBUG 2011-11-21 21:49:37,810 views 4442 -1235518608 select_parking_form
+DEBUG 2011-11-21 21:53:51,510 views 4448 -1235518608 select_parking_form
+DEBUG 2011-11-21 21:56:35,282 views 4503 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:00:15,623 views 4532 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:02:15,691 views 4571 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:02:55,719 views 4613 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:03:27,882 views 4634 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:05:40,300 views 4653 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:07:04,277 views 4699 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:08:12,678 views 4721 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:13:14,410 views 4753 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:17:06,316 views 4836 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:18:03,425 views 4921 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:18:20,028 views 4928 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:19:10,175 views 4955 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:21:42,300 views 4967 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:24:49,544 views 5014 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:27:14,260 views 5058 -1235518608 select_parking_form
+DEBUG 2011-11-21 22:31:44,263 views 5156 -1235518608 select_parking_form
+DEBUG 2011-11-22 19:51:31,763 views 3114 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:01:52,728 views 3238 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:05:34,485 views 3252 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:32:14,552 views 3345 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:35:56,960 views 4373 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:37:05,597 views 4461 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:37:41,997 views 4477 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:42:19,247 views 4494 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:45:18,893 views 4638 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:47:42,662 views 4693 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:47:54,531 views 4718 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:51:12,997 views 4727 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:52:50,091 views 4767 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:58:09,555 views 4804 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:58:32,490 views 4900 -1234760848 select_parking_form
+DEBUG 2011-11-22 20:59:20,648 views 4915 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:01:28,162 views 4941 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:01:52,556 views 4985 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:05:15,716 views 4998 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:07:11,452 views 5022 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:07:40,182 views 5055 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:08:49,959 views 5077 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:09:20,734 views 5098 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:09:54,907 views 5111 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:11:49,721 views 5125 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:12:46,800 views 5146 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:13:46,128 views 5161 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:14:11,013 views 5174 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:15:19,398 views 5182 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:16:10,392 views 5196 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:16:28,409 views 5206 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:16:51,168 views 5213 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:17:21,782 views 5221 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:18:34,927 views 5232 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:19:29,395 views 5274 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:20:56,557 views 5303 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:23:46,462 views 5336 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:26:31,386 views 5406 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:29:41,961 views 5471 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:32:33,976 views 5506 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:33:22,705 views 5587 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:40:15,724 views 5600 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:42:09,626 views 5658 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:43:11,638 views 5684 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:45:23,084 views 5701 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:47:27,206 views 5721 -1234760848 select_parking_form
+DEBUG 2011-11-22 21:48:29,796 views 5811 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:02:16,525 views 5831 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:03:07,232 views 6040 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:03:48,215 views 6066 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:04:26,884 views 6086 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:07:54,332 views 6112 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:08:18,656 views 6225 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:13:12,574 views 6238 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:13:38,265 views 6322 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:14:06,370 views 6348 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:15:46,121 views 6372 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:18:38,018 views 6433 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:19:29,897 views 6503 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:20:34,365 views 6518 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:26:01,846 views 6537 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:26:37,315 views 6647 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:30:24,366 views 6660 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:33:03,038 views 6738 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:35:26,132 views 6775 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:36:19,654 views 6864 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:37:55,741 views 6882 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:41:03,703 views 6936 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:42:43,163 views 7006 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:43:43,501 views 7031 -1234760848 select_parking_form
+DEBUG 2011-11-22 22:44:08,983 views 7050 -1234760848 select_parking_form
+DEBUG 2011-11-23 20:43:01,313 views 2251 -1235207312 select_parking_form
+DEBUG 2011-11-23 20:46:05,392 views 2440 -1235207312 select_parking_form
+DEBUG 2011-11-23 20:48:18,694 views 2450 -1235207312 select_parking_form
+DEBUG 2011-11-23 20:50:32,636 views 2581 -1235207312 select_parking_form
+DEBUG 2011-11-23 20:51:28,061 views 2634 -1235207312 select_parking_form
+DEBUG 2011-11-23 20:57:36,872 views 2665 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:01:14,610 views 3005 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:01:42,477 views 3047 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:01:59,599 views 3058 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:03:08,343 views 3068 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:04:31,450 views 3092 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:09:06,487 views 3117 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:13:03,491 views 3237 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:15:04,247 views 3335 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:15:34,014 views 3358 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:16:11,936 views 3369 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:18:42,222 views 3391 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:24:09,607 views 3457 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:25:03,270 views 3568 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:26:57,502 views 3587 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:42:05,693 views 3607 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:43:02,436 views 4047 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:50:35,792 views 4076 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:52:11,710 views 4311 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:52:39,214 views 4331 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:53:10,942 views 4358 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:56:24,277 views 4377 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:57:25,272 views 4404 -1235207312 select_parking_form
+DEBUG 2011-11-23 21:58:56,701 views 4441 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:00:12,887 views 4480 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:00:48,190 views 4533 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:03:14,261 views 4557 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:05:47,877 views 4646 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:06:53,139 views 4747 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:08:27,893 views 4772 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:11:08,280 views 4859 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:13:01,726 views 4868 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:14:19,338 views 4899 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:15:19,605 views 4912 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:16:42,444 views 4927 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:17:14,638 views 4950 -1235207312 select_parking_form
+DEBUG 2011-11-23 22:17:40,400 views 4973 -1235207312 select_parking_form
+DEBUG 2011-11-26 15:17:43,910 views 2731 -1236276368 select_parking_form
+DEBUG 2011-11-26 15:19:05,943 views 2737 -1236276368 select_parking_form
+DEBUG 2011-11-26 15:20:02,008 views 2870 -1236276368 select_parking_form
+DEBUG 2011-11-26 15:22:42,497 views 2887 -1236276368 select_parking_form
+DEBUG 2011-11-26 16:31:54,684 views 2936 -1236276368 select_parking_form
+DEBUG 2011-11-26 16:33:05,819 views 3453 -1235158160 select_parking_form
+DEBUG 2011-11-26 16:33:59,158 views 3554 -1235158160 select_parking_form
+DEBUG 2011-11-26 16:47:00,733 views 3570 -1235158160 select_parking_form
+DEBUG 2011-11-26 16:51:00,310 views 3641 -1235158160 select_parking_form
+DEBUG 2011-11-26 16:51:12,745 views 3719 -1235158160 select_parking_form
+DEBUG 2011-11-26 16:51:20,562 views 3727 -1235158160 select_parking_form
+WARNING 2011-11-30 20:58:50,602 base 4398 -1234814096 Not Found: /favicon.ico
+WARNING 2011-11-30 20:58:52,834 base 4403 -1234814096 Not Found: /favicon.ico
+DEBUG 2011-11-30 20:59:08,433 views 4430 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:06:29,167 views 4436 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:09:56,146 views 4501 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:14:01,239 views 4558 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:14:44,330 views 4592 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:16:45,341 views 4610 -1234814096 select_parking_form
+DEBUG 2011-11-30 21:29:41,966 views 4763 -1234814096 select_parking_form
+DEBUG 2011-11-30 22:24:54,769 views 5123 -1234814096 select_parking_form
+DEBUG 2011-11-30 22:27:12,757 views 5131 -1234814096 select_parking_form
+WARNING 2011-11-30 22:27:14,900 base 5143 -1234814096 Not Found: /legal_professionals
+DEBUG 2011-11-30 22:32:38,767 views 5161 -1234814096 select_parking_form
+DEBUG 2011-12-03 14:05:34,880 views 2176 -1236034704 select_parking_form
+DEBUG 2011-12-03 14:07:11,628 views 2184 -1236034704 select_parking_form
+DEBUG 2011-12-03 14:16:26,317 views 2446 -1236034704 select_parking_form
+WARNING 2011-12-03 15:03:42,810 base 3139 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:03:44,817 base 3144 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:03:46,816 base 3149 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:03:48,823 base 3154 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:03:50,842 base 3159 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:03:52,829 base 3164 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:06:36,008 base 3193 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:06:38,011 base 3198 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:06:39,997 base 3204 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:06:42,006 base 3209 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:06:43,992 base 3214 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:06:45,992 base 3219 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+DEBUG 2011-12-03 15:07:37,204 views 3232 -1236034704 select_parking_form
+WARNING 2011-12-03 15:07:54,079 base 3258 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:07:56,073 base 3263 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:07:58,082 base 3268 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:08:00,093 base 3273 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:08:02,084 base 3278 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:08:04,098 base 3283 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:08:54,152 base 3313 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:08:56,152 base 3318 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:08:58,210 base 3323 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:09:00,161 base 3328 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:09:02,256 base 3333 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:09:04,200 base 3338 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:11:42,291 base 3389 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:11:44,292 base 3394 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:11:46,325 base 3399 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:11:48,308 base 3404 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:11:50,304 base 3409 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:11:52,310 base 3414 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:11:58,326 base 3426 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:12:00,336 base 3431 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:12:02,383 base 3437 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:12:04,357 base 3442 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:12:06,357 base 3448 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:12:08,340 base 3453 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:12:46,398 base 3483 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:12:48,379 base 3488 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:12:50,409 base 3493 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:12:52,419 base 3498 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:12:54,389 base 3503 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:12:56,400 base 3508 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:13:55,454 base 3524 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:13:57,451 base 3529 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:13:59,495 base 3534 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:14:01,488 base 3539 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:14:03,531 base 3544 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:14:05,538 base 3576 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:16:05,580 base 3718 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:16:07,578 base 3723 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:16:09,587 base 3728 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:16:11,593 base 3733 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:16:13,649 base 3738 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:16:15,598 base 3743 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:18:40,760 base 3778 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/screen.css
+WARNING 2011-12-03 15:18:42,767 base 3783 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/plugins/fancy-type/screen.css
+WARNING 2011-12-03 15:18:44,814 base 3788 -1236034704 Not Found: /ticketpay/userprofile/css/blueprint/print.css
+WARNING 2011-12-03 15:18:46,774 base 3793 -1236034704 Not Found: /ticketpay/userprofile/css/django-profile.css
+WARNING 2011-12-03 15:18:48,756 base 3798 -1236034704 Not Found: /ticketpay/trafftick/css/inputs.css
+WARNING 2011-12-03 15:18:50,768 base 3803 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+WARNING 2011-12-03 15:18:52,749 base 3808 -1236034704 Not Found: /ticketpay/trafftick/css/smoothness/jquery-ui-1.8.16.custom.css
+WARNING 2011-12-03 15:18:54,798 base 3813 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-1.6.2.min.js
+WARNING 2011-12-03 15:18:56,831 base 3819 -1236034704 Not Found: /ticketpay/trafftick/js/jquery-ui-1.8.16.custom.min.js
+DEBUG 2011-12-03 15:31:27,879 views 4050 -1236034704     1  pwd
+    2  cd ../vitalii/
+    3  ls
+    4  mkdir devhost
+    5  cd devhost/
+    6  pwd
+    7  ssh emilianka.com:/home/vitalii /home/vitalii/devhost
+    8  sshfs emilianka.com:/home/vitalii /home/vitalii/devhost
+    9  ls
+   10  sudo ls
+   11  umount /home/vitalii/devhost 
+   12  sudo adduser vitalii adm,dialout
+   13  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   14  ls
+   15  umount /home/vitalii/devhost 
+   16  sudo umount /home/vitalii/devhost
+   17  pwd
+   18  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   19  ls
+   20  pwd
+   21  ls
+   22  sudo ls devhost
+   23  ssh emilianka.com
+   24  exit
+   25  ssh emilianka.com
+   26  exit
+   27  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   28  ls
+   29  ls devhost/
+   30  pwd
+   31  mkdir emilianka
+   32  cd emilianka/
+   33  pwd
+   34  sshfs emilianka.com:/home/vitalii/cvs/emilianka /home/vitalii/emilianka
+   35  ls
+   36  pwd
+   37  su ls
+   38  sudo ls
+   39  sudo umount /home/vitalii/emilianka
+   40  cd ../
+   41  sudo umount /home/vitalii/emilianka
+   42  lsof 
+   43  sudo umount /home/vitalii/emilianka
+   44  exit
+   45  sudo umount /home/vitalii/emilianka/
+   46  sudo umount /home/vitalii/devhost
+   47  su ls
+   48  sudo ls
+   49  sudo sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   50  sudo sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   51  sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   52  cd ../vitalii/
+   53  ls -all devhost/
+   54  kate
+   55  sudo umount /home/vitalii/devhost
+   56  ls
+   57  ls devhost/
+   58  ssh emilianka.com
+   59  ssh pait4pets.com
+   60  ssh pair4pets.com
+   61  exit
+   62  sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   63  pwd
+   64  sshfs emilianka.com:/home/vitalii/cvs/emilianka /home/vitalii/emilianka
+   65  cd devhost/
+   66  ls
+   67  su
+   68  pwd
+   69  cd ../
+   70  umount /home/vitalii/devhost 
+   71  sudo umount /home/vitalii/devhost 
+   72  sudo umount /home/vitalii/emilianka/
+   73  cd ../Downloads/
+   74  ls
+   75  chmod 775 VMware-Player-4.0.0-471780.i386.bundle 
+   76  ./VMware-Player-4.0.0-471780.i386.bundle 
+   77  sudo ./VMware-Player-4.0.0-471780.i386.bundle 
+   78  sudo add-apt-repository ppa:alexx2000/doublecmd
+   79  sudo apt-get update
+   80  sudo apt-get install doublecmd-gtk
+   81  sudo apt-get install emelfm2
+   82  ssh emilianka.com
+   83  ls
+   84  mkdir projects
+   85  cd projects/
+   86  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   87  ls 
+   88  ls
+   89  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   90  ls
+   91  pwd
+   92  ls
+   93  umount /home/vitalii/projects 
+   94  sudo umount /home/vitalii/projects 
+   95  sudo sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   96  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projectsjpohiuhls
+   97  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   98  pqd
+   99  pwd
+  100  cd projects/
+  101  ls
+  102  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  103  history | grep sshfs
+  104  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  105  ls projects/
+  106  umount /home/vitalii/projects 
+  107  sudo /home/vitalii/projects
+  108  sudo umount /home/vitalii/projects
+  109  ls projects/
+  110  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  111  sudo umount /home/vitalii/projects
+  112  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  113  ls projects/
+  114  sudo umount /home/vitalii/projects
+  115  ssh pair4pets.com
+  116  history | grep sshfs
+  117  pwd
+  118  ls *histor*
+  119  history > history.txt
+
+DEBUG 2011-12-03 17:22:15,121 views 4382 -1236034704 [Desktop Entry]
+Version=1.0
+Type=Link
+Name=Examples
+Comment=Example content for Ubuntu
+URL=file:///usr/share/example-content/
+Icon=folder
+X-Ubuntu-Gettext-Domain=example-content
+
+
+WARNING 2011-12-04 09:31:18,419 base 2229 -1234211984 Not Found: /favicon.ico
+WARNING 2011-12-04 09:31:20,443 base 2235 -1234211984 Not Found: /favicon.ico
+WARNING 2011-12-04 09:31:22,416 base 2249 -1234211984 Not Found: /favicon.ico
+DEBUG 2011-12-04 09:33:29,961 views 2307 -1234211984 [Desktop Entry]
+Version=1.0
+Type=Link
+Name=Examples
+Comment=Example content for Ubuntu
+URL=file:///usr/share/example-content/
+Icon=folder
+X-Ubuntu-Gettext-Domain=example-content
+
+
+DEBUG 2011-12-04 21:01:00,955 views 3092 -1235719312     1  pwd
+    2  cd ../vitalii/
+    3  ls
+    4  mkdir devhost
+    5  cd devhost/
+    6  pwd
+    7  ssh emilianka.com:/home/vitalii /home/vitalii/devhost
+    8  sshfs emilianka.com:/home/vitalii /home/vitalii/devhost
+    9  ls
+   10  sudo ls
+   11  umount /home/vitalii/devhost 
+   12  sudo adduser vitalii adm,dialout
+   13  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   14  ls
+   15  umount /home/vitalii/devhost 
+   16  sudo umount /home/vitalii/devhost
+   17  pwd
+   18  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   19  ls
+   20  pwd
+   21  ls
+   22  sudo ls devhost
+   23  ssh emilianka.com
+   24  exit
+   25  ssh emilianka.com
+   26  exit
+   27  sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   28  ls
+   29  ls devhost/
+   30  pwd
+   31  mkdir emilianka
+   32  cd emilianka/
+   33  pwd
+   34  sshfs emilianka.com:/home/vitalii/cvs/emilianka /home/vitalii/emilianka
+   35  ls
+   36  pwd
+   37  su ls
+   38  sudo ls
+   39  sudo umount /home/vitalii/emilianka
+   40  cd ../
+   41  sudo umount /home/vitalii/emilianka
+   42  lsof 
+   43  sudo umount /home/vitalii/emilianka
+   44  exit
+   45  sudo umount /home/vitalii/emilianka/
+   46  sudo umount /home/vitalii/devhost
+   47  su ls
+   48  sudo ls
+   49  sudo sshfs emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   50  sudo sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   51  sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   52  cd ../vitalii/
+   53  ls -all devhost/
+   54  kate
+   55  sudo umount /home/vitalii/devhost
+   56  ls
+   57  ls devhost/
+   58  ssh emilianka.com
+   59  ssh pait4pets.com
+   60  ssh pair4pets.com
+   61  exit
+   62  sshfs vitalii@emilianka.com:/home/vitalii/public_html/trafftick /home/vitalii/devhost
+   63  pwd
+   64  sshfs emilianka.com:/home/vitalii/cvs/emilianka /home/vitalii/emilianka
+   65  cd devhost/
+   66  ls
+   67  su
+   68  pwd
+   69  cd ../
+   70  umount /home/vitalii/devhost 
+   71  sudo umount /home/vitalii/devhost 
+   72  sudo umount /home/vitalii/emilianka/
+   73  cd ../Downloads/
+   74  ls
+   75  chmod 775 VMware-Player-4.0.0-471780.i386.bundle 
+   76  ./VMware-Player-4.0.0-471780.i386.bundle 
+   77  sudo ./VMware-Player-4.0.0-471780.i386.bundle 
+   78  sudo add-apt-repository ppa:alexx2000/doublecmd
+   79  sudo apt-get update
+   80  sudo apt-get install doublecmd-gtk
+   81  sudo apt-get install emelfm2
+   82  ssh emilianka.com
+   83  ls
+   84  mkdir projects
+   85  cd projects/
+   86  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   87  ls 
+   88  ls
+   89  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   90  ls
+   91  pwd
+   92  ls
+   93  umount /home/vitalii/projects 
+   94  sudo umount /home/vitalii/projects 
+   95  sudo sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   96  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projectsjpohiuhls
+   97  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+   98  pqd
+   99  pwd
+  100  cd projects/
+  101  ls
+  102  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  103  history | grep sshfs
+  104  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  105  ls projects/
+  106  umount /home/vitalii/projects 
+  107  sudo /home/vitalii/projects
+  108  sudo umount /home/vitalii/projects
+  109  ls projects/
+  110  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  111  sudo umount /home/vitalii/projects
+  112  sshfs emilianka.com:/home/vitalii/cvs /home/vitalii/projects
+  113  ls projects/
+  114  sudo umount /home/vitalii/projects
+  115  ssh pair4pets.com
+  116  history | grep sshfs
+  117  pwd
+  118  ls *histor*
+  119  history > history.txt
+
+DEBUG 2011-12-09 19:51:37,378 views 4354 -1234613392 [Desktop Entry]
+Version=1.0
+Type=Link
+Name=Examples
+Comment=Example content for Ubuntu
+URL=file:///usr/share/example-content/
+Icon=folder
+X-Ubuntu-Gettext-Domain=example-content
+
+
+WARNING 2011-12-14 21:54:53,521 base 8747 -1235571856 Not Found: /favicon.ico
+WARNING 2011-12-14 21:54:55,358 base 8752 -1235571856 Not Found: /favicon.ico
+WARNING 2012-03-02 07:54:01,508 base 3873 -1234896016 Not Found: /favicon.ico
+WARNING 2012-03-02 07:54:02,510 base 3878 -1234896016 Not Found: /favicon.ico

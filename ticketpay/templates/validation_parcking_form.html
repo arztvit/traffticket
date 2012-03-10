@@ -1,0 +1,38 @@
+{% extends "show_register_options.html" %}
+{% if user.is_authenticated %}
+	{% block extrajs %}
+		<script src="{{MEDIA_URL}}trafftick/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+		<script src="{{MEDIA_URL}}trafftick/js/jquery-ajax-validation.js" type="text/javascript"></script>
+		<script src="{{MEDIA_URL}}trafftick/js/jquery-uni-form.js" type="text/javascript"></script>
+{% endblock %}
+
+	{% load jquery_validation %}
+    {% include_validation %}
+	{% block pay_ticket_content_related %}
+	<script>
+	$(function() {
+		$( "#id_offence_date" ).datepicker({
+			showOn: "button",
+			buttonImage: "{{MEDIA_URL}}images/calendar.gif",
+			buttonImageOnly: true,
+			dateFormat: "yy-mm-dd",
+		});
+		
+		$( "#id_date_post" ).datepicker({
+			showOn: "button",
+			buttonImage: "{{MEDIA_URL}}images/calendar.gif",
+			buttonImageOnly: true,
+			dateFormat: "yy-mm-dd",
+		});
+		
+		$('#select_parking_form').validate('{% url validate_parking_form %}', {type: 'ul'});
+		
+	});
+	</script>
+
+ <form action="select_parking_form" method="post">{% csrf_token %}
+{{ form.as_p }}
+<input type="submit" value="Submit" />
+</form>
+	{% endblock %}
+{% endif %}

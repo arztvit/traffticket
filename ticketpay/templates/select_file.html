@@ -1,0 +1,22 @@
+{% extends "show_register_options.html" %}
+{% if user.is_authenticated %}
+	
+	 {% block extrajs %}
+	<link rel="stylesheet" href="{{MEDIA_URL}}trafftick/css/smoothness/jquery-ui-1.8.16.custom.css" type="text/css">
+	<script src="{{MEDIA_URL}}trafftick/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+	<script src="{{MEDIA_URL}}trafftick/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+	{% endblock %}
+	
+	{% block pay_ticket_content_related %}
+	<meta charset="utf-8">
+ 	<form method="post" action="/ticketpay/upload_ticket_form" enctype="multipart/form-data">
+		{% csrf_token %}
+		<div>
+			{{ form.title }}
+			{{ form.file }}
+			
+		</div>
+		<input type="submit" value="Upload " name="Submit">
+	</form>
+	{% endblock %}
+{% endif %}

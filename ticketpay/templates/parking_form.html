@@ -1,0 +1,160 @@
+{% extends "show_register_options.html" %}
+{% if user.is_authenticated %}
+	{% block extrajs %}
+	    <link rel="stylesheet" href="{{MEDIA_URL}}trafftick/css/validationEngine.jquery.css" type="text/css"/>
+        <link rel="stylesheet" href="{{MEDIA_URL}}trafftick/css/template.css" type="text/css"/>
+        <link rel="stylesheet" href="{{MEDIA_URL}}trafftick/css/smoothness/jquery-ui-1.8.16.custom.css" type="text/css">
+	    <script src="{{MEDIA_URL}}trafftick/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+        <script src="{{MEDIA_URL}}trafftick/js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{MEDIA_URL}}trafftick/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+       	<script src="{{MEDIA_URL}}trafftick/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+
+        <script>
+	    $(document).ready(function(){
+	        $("#select_parking_form").validationEngine();
+	       });
+        </script>
+	{% endblock %}
+
+	{% load jquery_validation %}
+	{% load widget_tweaks %}
+    {% include_validation %}
+	{% block pay_ticket_content_related %}
+
+    <script>
+	$(function() {
+		$( "#id_offence_date" ).datepicker({
+			showOn: "button",
+			buttonImage: "{{MEDIA_URL}}images/calendar.gif",
+			buttonImageOnly: true,
+			dateFormat: "yy-mm-dd",
+		});
+		
+		$( "#id_date_post" ).datepicker({
+			showOn: "button",
+			buttonImage: "{{MEDIA_URL}}images/calendar.gif",
+			buttonImageOnly: true,
+			dateFormat: "yy-mm-dd",
+		});
+	});
+	</script>
+<form id="select_parking_form" action="select_parking_form" method="post">{% csrf_token %}
+ 	<div id="basic-modal-content"></div>
+ 	<div style='display:none'>
+		<img src='{{MEDIA_URL}}dialogue/img/basic/x.png' alt='' />
+	</div>
+	<div class="header1">
+		NOTICE OF INTENTION TO APPEAR<br>AVIS D’INTENTION DE COMPARAÎTRE
+	</div>
+    <div>
+		<div class="row_75">Ontario Court Of Justice <br>
+                    Cour de justice de l’Ontario <br>
+                    PROVINCE OF ONTARIO <br>
+                    Province de l’Ontario 
+        </div>
+      	<div class="row_25">Form / Formule 7<br>
+        Provincial Offences Act<br>
+        Loi sur les infractions provinciales<br>
+        Reg. / Règl. 950
+        </div>
+	</div>
+	<div class="row_center_100">
+        Please Print Clearly / Veuillez écrire clairment en lettres moulées
+	</div>
+	<div class="fieldWrapper"><label for="id_notice">TAKE NOTICE THAT I</label>{{ form.notice|add_class:"validate[required] text-input" }}</div>
+    <div>VEUILLEZ PRENDRE AVIS QUE JE, SOUSSIGNÉ(E) (defendant’s name / nom du défendeur/de la défenderesse) Of </div>
+	<div class="fieldWrapper"><label for="id_address">Current address / adresse actuelle&nbsp;Street / rue</label>{{ form.address|add_class:"validate[required] text-input" }}</div>	
+    
+  	<div class="row_left_50 clear_both fieldWrapper_small"><label for="id_apartment">Apt. / app.</label>{{ form.apartment|add_class:"validate[required] text-input" }}</div>
+  	<div class="row_right_50 fieldWrapper_small"><label for="id_municipality">Municipality / municipalité</label>{{ form.municipality|add_class:"validate[required] text-input" }}</div>
+
+	<div class="row_left_50 clear_both fieldWrapper_small"><label for="id_province">Province</label>{{ form.province|add_class:"validate[required] text-input" }}</div>
+  	<div class="row_right_50 fieldWrapper_small"><label for="id_postal_code">Postal Code / code postal</label>{{ form.postal_code|add_class:"validate[required] text-input" }}</div>
+
+ 	<div class="clear_both row_left_50">
+		    wish to give notice of my intention to appear in court to enter a plea of not guilty at the time and place set for the trial respecting the charge set out in the Offence Notice or Parking Infraction Notice
+			désire aviser de mon intention de comparaître devant le tribunal pour inscrire un plaidoyer de non-culpabilité à l’heure et au lieu prévus pour le procès en réponse à l’accusation énoncée dans l’avis d’infraction ou l'avis d'infraction de stationnement
+	</div>
+	
+    <div class="row_right_50">
+      	<div class="fieldWrapper_small"><label for="id_icon">ICON: </label>{{ form.icon|add_class:"validate[required] text-input" }}</div>
+	  	<div class="fieldWrapper_small">{{ form.offence_date|add_class:"validate[required] text-input" }}</div>(offence date / date de l’infraction)
+     	<div class="fieldWrapper_small">{{ form.offence_number|add_class:"validate[required] text-input" }}</div>(offence number / numéro d’infaction)
+    </div>
+	
+	<div class="border_line clear_both"/>
+
+	<div class="clear_both row_left_50">
+		<div>FOR ANY OFFENCE EXCEPT s.s. 144(18.1) OF THE HTA COMPLETE THIS SECTION:</div>
+ 	    <div><i>I intend to challenge the Provincial Offences Officer’s evidence. I request that the officer attend the trial</i></div>
+		<div><div class="fieldWrapper_small">{{ form.chalenge_no|add_class:"validate[required] text-input" }}<label for="id_chalenge_no">No / Non</label></div></div>
+	</div>
+	
+    <div class="row_right_50" >
+		<div><i>POUR TOUTE INFRACTION NON VISÉE AU PARAGRAPHE 144 (18.1) DU CODE DE LA ROUTE, REMPLIR CETTE SECTION:</i></div>
+      	<div>J’ai l’intention de contester la preuve de l’agent des infractions provinciales. Je demande que l’agent assiste au procès</div>
+        <div><div class="fieldWrapper_small">{{ form.chalenge_yes|add_class:"validate[required] text-input" }}<label for="id_chalenge">Yes / Oui</label></div></div>
+    </div>
+	<div class="border_line clear_both"/>
+
+	<div class="row_left_50"><strong>Note:</strong><br>If you have been charged with an offence under s.s. 144(18.1) of the Highway Traffic Act (red light running/owner), s. 205.20 of the Highway Traffic Act provides that you must apply to the justice at trial if you wish to compel the attendance of the Provincial Offences Officer who issued the Certificate of Offence or who certified the photographs to be tendered at your trial.</div>
+	<div class="row_right_50"><strong>Remarque:</strong><br><i>Si vous avez été accusé(e) d’une infraction visée au paragraphe 144 (18.1) du Code de la route (passage au feu rouge/propriétaire), l’article 205.20 du Code de la route prévoit que vous devez vous adresser au juge du procès si vous désirez obtenir la comparution de l’agent des infractions provinciales qui a délivré le procès-verbal d’infraction ou qui a certifié les photos qui seront présentées en preuve lors de votre procès.</i></div>
+	
+	<div class="border_line clear_both"/>
+	
+	<div class="row_left_50 fieldWrapper_small">
+	  	<div>{{ form.intended_to_appear_yes|add_class:"validate[required] text-input" }}  I intend to appear in court to enter a plea at the time and place set for the trial and I wish that it be held in the English language</div>
+  		<div>I request a<div class="fieldWrapper_small">{{ form.lang_interpreter|add_class:"validate[required] text-input" }}</div>language interpreter for the trial. (leave blank if inapplifble)</div>
+	</div>
+	<div class="row_right_50 fieldWrapper_small">
+	 	<div>{{ form.intended_to_appear_no|add_class:"validate[required] text-input" }}J’ai l’intention de comparaître devant le tribunal pour inscrire un plaidoyer à l’heure et au lieu prévus pour le procès et je désire que le procès se déroule en français.</div>
+  		<div>Je demande l’aide d’un interprète de langue<div class="fieldWrapper_small">{{ form.lang_interpreter_fr|add_class:"validate[required] text-input" }}</div>pour le procès. (À remplir s’il y a lieu)</div>
+	</div>
+
+	<div class="border_line clear_both"/>
+
+  	<div class="row_left_50">
+	  	<div><strong>Note:</strong> If you fail to <strong>notify</strong> the court office of <strong>address changes</strong> you may not receive important notices e.g., your Notice of Trial. You may be convicted<br>in your absence if you do not attend the trial.</div>
+	  	<div class="fieldWrapper_small">{{ form.intended_to_appear_in_cort|add_class:"validate[required] text-input" }}I intend to appear in court to enter a plea at the time and place set for the trial and I wish that it be held in the English language.</div>
+		<div><div class="fieldWrapper_small">{{ form.signature|add_class:"validate[required] text-input" }}</div>(signature of defendant or representative / signature du défendeur/de la défenderesse ou du représentant/de la représentante)</div>
+	 </div>
+  	<div class="row_right_50">
+	  	<div><strong>Remarque:</strong> <i>Si vous omettez de<strong> prévenir</strong> le greffe du tribunal de tout <strong>changement d’adresse</strong>, vous pourriez ne pas recevoir d’importants avis (par ex., votre avis de procès). Vous pourriez être déclaré(e) coupable en votre absence si vous n’assistez pas au procès.</i></div>
+	  	<div class="fieldWrapper_small">{{ form.intended_to_appear_in_cort_fr|add_class:"validate[required] text-input" }}<i>J’ai l’intention de comparaître devant le tribunal pour inscrire un plaidoyer à l’heure et au lieu prévus pour le procès et je désire que le procès se déroule en français.</i></div>
+		<div><div class="fieldWrapper_small">{{ form.date_post|add_class:"validate[required] text-input" }}</div>date</div>
+	</div>
+	
+	<div class="border_line clear_both"/>
+	
+    <div><label for="id_representive_details">Representative’s Name &amp; Address/ Nom et adresse du représentant/de la représentante</label>
+    <div class="fieldWrapper_small">{{ form.representive_details|add_class:"validate[required] text-input" }}</div></div>
+    <div class="row_left_50">
+      <div><label for="id_current_address">Current address / adresse actuelle</label>
+      <div class="fieldWrapper_small">{{ form.current_address|add_class:"validate[required] text-input" }}</div></div>
+    </div> 
+    <div class="row_right_50">
+		<div><label for="id_street_1">Street / rue</label>
+      	<div class="fieldWrapper_small">{{ form.street_1|add_class:"validate[required] text-input" }}</div></div>
+	</div>
+	<div class="row_left_50">
+     	<div><label for="id_apartment_1">Apt. / app.</label>
+  		<div class="fieldWrapper_small">{{ form.apartment_1|add_class:"validate[required] text-input" }}</div></div>
+	</div>
+	<div class="row_right_50">
+      	<div><label for="id_municipality_1">Municipality / municipalité</label>
+  		<div class="fieldWrapper_small">{{ form.municipality_1|add_class:"validate[required] text-input" }}</div></div>
+	</div>
+	<div class="row_left_50">
+      	<div><label for="id_province_1">Province</label>
+     	<div class="fieldWrapper_small">{{ form.province_1|add_class:"validate[required] text-input" }}</div></div>
+	</div>	
+	<div class="row_right_50">
+		
+      	<div class="fieldWrapper_small"><label for="id_postal_code_1">Postal Code / code postal</label>{{ form.postal_code_1|add_class:"validate[required] text-input" }}</div>
+    </div> 
+    
+ 	<div align="center"><label><input type="hidden" id="submit" name="submit"><input type="submit" ></label></div>
+
+</div>
+	{% endblock %}
+{% endif %}

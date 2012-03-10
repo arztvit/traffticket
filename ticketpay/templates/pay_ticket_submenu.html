@@ -1,0 +1,9 @@
+{% load i18n %}
+{% if user.is_authenticated %}
+	<div id="nav" class="{{ css_classes.nav }}">
+	<ul class="hmenu">
+		<li{% ifequal section "legal_professionals" %} class="active"{% endifequal %}><a href="{% url legal_professionals %}">{% trans "Legal Profesionals" %}</a></li>
+		<li{% ifequal section "general_public" %} class="active"{% endifequal %}><a href="{% url general_public %}">{% trans "General Public" %}</a></li>
+	</ul>
+	</div>
+{% endif %}

@@ -1,0 +1,6 @@
+{% extends "main_pay_tickets.html" %}
+{% if user.is_authenticated %}
+	{% block pay_ticket_navigation %}
+		{% include "pay_ticket_submenu.html" %}
+	{% endblock %}
+{% endif %}

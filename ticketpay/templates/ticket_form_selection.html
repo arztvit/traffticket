@@ -1,0 +1,23 @@
+{% extends "show_register_options.html" %}
+{% if user.is_authenticated %}
+	{% block pay_ticket_content_related %}
+        What type of ticket to do you have:
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody>
+    <tr>
+      <td width="33%"><img src="{{ MEDIA_URL}}trafftick/parking_icon_top.PNG"></td>
+      <td width="33%"><img src="{{ MEDIA_URL}}trafftick/redlight_icon_top.PNG"/></td>
+      <td width="33%"><img src="{{ MEDIA_URL}}trafftick/notice_icon_top.PNG"/></td>
+    </tr>
+    <tr>
+      <td><a href="{% url select_date %}"><img src="{{ MEDIA_URL}}trafftick/parking.jpg"></a></td>
+      <td><a href="{% url upload_ticket_form %}"><img src="{{ MEDIA_URL}}trafftick/red_light.jpg"></a></td>
+      <td><a href="http://www.filemytickets.com/noticetoappear_check.php"><img src="{{ MEDIA_URL}}trafftick/general_ticket.jpg"></a></td>
+    </tr>
+    <tr>
+  </tbody></table>
+Please help us help YOU by sending us a scanned copy or picture of your ticket(s) !!! 
+		<br><br>
+		You may email us at: <a href="mailto:mazur.vitalii@gmail.com">mailto:mazur.vitalii@gmail.com</a>
+	{% endblock %}
+{% endif %}

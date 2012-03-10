@@ -1,0 +1,12 @@
+.fieldWrapper > input {width:100%; background: #FFFFE1;}
+.fieldWrapper_small > input {width:100%; background: #FFFFE1;}
+.header1 {text-align: center;font-size: medium;}
+.row_75 {float: left; width: 75%;}
+.row_25 {float: right; width: 25%; font-family:Arial,Helvetica,sans-serif;font-size:12px;}
+.row_left_50 {float: left; width: 47%;}
+.row_right_50 {float: right; width: 47%; font-family:Arial,Helvetica,sans-serif;font-size:12px;}
+.clear_both {clear:both}
+.row_center_100 {text-align: center}
+.border_line {height:1px; background:#000000;}
+ul {color: red;}
+
